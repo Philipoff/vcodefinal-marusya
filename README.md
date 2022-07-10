@@ -29,7 +29,7 @@ https://vcode-marusya.flint3s.ru/fifty/webhook
 pip install -r requirements.txt
 ```
 
-После чего запустить проект
+После чего запустить проект, который полностью находится в папке serv
 
 ```
 python3 main.py
